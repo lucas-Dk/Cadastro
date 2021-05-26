@@ -1,8 +1,8 @@
-# Banco de dados
-# Esse projeto é para estudos
-# Com esse mini projeto você poderá:
-#	- criar um banco de dados
-#	- adicionar/remover/atualizar o banco de dados https://sqlitebrowser.org/dl/
+# Banco de dados                                    |
+# Esse projeto é para estudos                       | \
+# Com esse mini projeto você poderá:                    by: lucas-Dk
+#	- criar um banco de dados                       | /
+#	- adicionar/remover/atualizar o banco de dados  |
 
 import sqlite3
 import os
