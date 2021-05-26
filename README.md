@@ -2,7 +2,7 @@
 - Esse projeto poderá ser utilizado como fins de estudos para quem
 - deseja saber sobre banco de dados
 
-# O que podera fazer:
+# O que poderá fazer:
 - Nesse projeto você poderá:
 - Adicionar/Remover/Atualizar o banco de dados
 
